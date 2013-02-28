@@ -1,0 +1,1572 @@
+<?xml version="1.0"?>
+<Skein rootNode="node-0x253d10" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+  <generator>Zoom</generator>
+  <activeNode nodeId="node-0x253d10" />
+  <item nodeId="node-0x253d10">
+    <command xml:space="preserve">- start -</command>
+    <result xml:space="preserve">
+
+
+
+You sigh and hang up the phone. This morning you had been looking forward to kicking back with a cold lemonade and a game of Super Mario 64. Now the vet has reminded you that your cat has a routine checkup in half an hour. Normally affable and outgoing, your large furry tabby cat understands English and the minute he heard the word &quot;vet&quot; he made himself scarce. Now you have to chase him through the house and capture him. You aren&apos;t looking forward to the struggle.
+
+Get That Cat!
+Steel Cage Match by Douglas Kiang The release number is 1
+Release 1 / Serial number 110915 / Inform 7 build 6G60 (I6/v6.32 lib 6/12N) SD
+
+Living Room
+This room is largeish, with a bank of sunny windows next to the door to the patio facing the street outside. There are lots of places a cat could hide, especially a cat who does not want to go to the vet. The hallway is to the south, and the kitchen is to the east.
+
+You can see a pappasan, Sam, and a newspaper here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3">NO</temporary>
+    <children>
+      <child nodeId="node-0x2567c0" />
+      <child nodeId="node-0x255f70" />
+      <child nodeId="node-0x255c60" />
+      <child nodeId="node-0x255cd0" />
+      <child nodeId="node-0x255b10" />
+      <child nodeId="node-0x255aa0" />
+      <child nodeId="node-0x253d70" />
+    </children>
+  </item>
+  <item nodeId="node-0x253d70">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Hallway
+The carpet in the hallway is worn from the scuffling of furry cat feet as they run rapidly from room to room for no apparent reason. The bathroom is to the south and the living room is to the north. There are stairs here that lead up to the attic. The bedroom is to the west of the hallway.
+
+You can see a cat carrier (empty) here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="473">YES</temporary>
+    <children>
+      <child nodeId="node-0x255870" />
+      <child nodeId="node-0x254ad0" />
+      <child nodeId="node-0x2541c0" />
+      <child nodeId="node-0x253e20" />
+    </children>
+  </item>
+  <item nodeId="node-0x253e20">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Bathroom
+The bathroom is small, just large enough to hold a mirror, the sink, the shower, and the toilet.
+
+Opposite the mirror is the shower, which is closed.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="313">YES</temporary>
+    <children>
+      <child nodeId="node-0x253e70" />
+    </children>
+  </item>
+  <item nodeId="node-0x253e70">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Hallway
+The carpet in the hallway is worn from the scuffling of furry cat feet as they run rapidly from room to room for no apparent reason. The bathroom is to the south and the living room is to the north. There are stairs here that lead up to the attic.
+
+You can see a tabby cat and a cat carrier (empty) here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="313">YES</temporary>
+    <children>
+      <child nodeId="node-0x2540e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2540e0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Living Room
+This room is largeish, with a bank of sunny windows next to the door to the patio facing the street outside. There are lots of places a cat could hide -- especially a cat who does not want to go to the vet. The hallway is to the south, and the kitchen is to the east.
+
+You can see a newspaper and a pappasan here.
+
+You hear a horrible choking and hacking sound. Somewhere, someone has coughed up a hairball.
+
+Sam arrives from the Kitchen.
+
+There is a large furry tabby cat here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="313">YES</temporary>
+    <children>
+      <child nodeId="node-0x254150" />
+    </children>
+  </item>
+  <item nodeId="node-0x254150">
+    <command xml:space="preserve">x sam</command>
+    <result xml:space="preserve">Sam is a black and white cat.
+
+Sam heads to the Kitchen.
+
+[Your score has just gone up by one point.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="312">YES</temporary>
+  </item>
+  <item nodeId="node-0x2541c0">
+    <command xml:space="preserve">x tabby cat</command>
+    <result xml:space="preserve">The tabby cat is older and wiser than you. His fur is matted and tangled, with a pink nose and a prominent M on his forehead. He gazes at you with a look that is part interest, part contempt. He yawns.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="339">YES</temporary>
+    <children>
+      <child nodeId="node-0x2542b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2542b0">
+    <command xml:space="preserve">win</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="339">YES</temporary>
+    <children>
+      <child nodeId="node-0x254300" />
+    </children>
+  </item>
+  <item nodeId="node-0x254300">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+Sam arrives from the Living Room.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="339">YES</temporary>
+    <children>
+      <child nodeId="node-0x254350" />
+    </children>
+  </item>
+  <item nodeId="node-0x254350">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Living Room
+This room is largeish, with a bank of sunny windows next to the door to the patio facing the street outside. There are lots of places a cat could hide -- especially a cat who does not want to go to the vet. The hallway is to the south, and the kitchen is to the east.
+
+You can see a tabby cat, a newspaper and a pappasan here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="339">YES</temporary>
+    <children>
+      <child nodeId="node-0x2543c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2543c0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Kitchen
+The kitchen is a bright, sunny room. A wraparound counter provides a place to stand up and eat, and the smell of freshly baked chocolate chip cookies wafts through the air. The tiles on the kitchen floor are faded and chipped from the sunlight. This is clearly the most popular room in the house. The living room is to the west of you.
+
+You can see a tabby cat, an Oven (closed) and a Cabinet (closed) here.
+
+You hear a horrible choking and hacking sound. Somewhere, someone has coughed up a hairball.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="339">YES</temporary>
+    <children>
+      <child nodeId="node-0x254430" />
+    </children>
+  </item>
+  <item nodeId="node-0x254430">
+    <command xml:space="preserve">open oven</command>
+    <result xml:space="preserve">A blast of hot air and the aroma of soft, chewy chocolate chip cookies greets you as you peer eagerly into the hot oven.
+
+You realize that you have only ten more minutes to get the cat into his carrier.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="339">YES</temporary>
+    <children>
+      <child nodeId="node-0x254560" />
+    </children>
+  </item>
+  <item nodeId="node-0x254560">
+    <command xml:space="preserve">take cookies</command>
+    <result xml:space="preserve">You&apos;ll need something to protect your hands!
+
+You hear a horrible choking and hacking sound. Somewhere, someone has coughed up a hairball.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="339">YES</temporary>
+    <children>
+      <child nodeId="node-0x254250" />
+    </children>
+  </item>
+  <item nodeId="node-0x254250">
+    <command xml:space="preserve">open cabinet</command>
+    <result xml:space="preserve">You open the Cabinet, revealing a pair of Potholders.
+
+You hear a horrible choking and hacking sound. Somewhere, someone has coughed up a hairball.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="339">YES</temporary>
+    <children>
+      <child nodeId="node-0x2545d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2545d0">
+    <command xml:space="preserve">take potholders.</command>
+    <result xml:space="preserve">[Your score has just gone up by one point.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="339">YES</temporary>
+    <children>
+      <child nodeId="node-0x254640" />
+    </children>
+  </item>
+  <item nodeId="node-0x254640">
+    <command xml:space="preserve">wear potholders</command>
+    <result xml:space="preserve">You put on the pair of Potholders.
+
+You hear a horrible choking and hacking sound. Somewhere, someone has coughed up a hairball.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="339">YES</temporary>
+    <children>
+      <child nodeId="node-0x2546b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2546b0">
+    <command xml:space="preserve">take cookies</command>
+    <result xml:space="preserve">Your exhaustion is threatening to send you crashing to the floor, unable to move.
+
+[Your score has just gone up by one point.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="339">YES</temporary>
+    <children>
+      <child nodeId="node-0x254720" />
+    </children>
+  </item>
+  <item nodeId="node-0x254720">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="339">YES</temporary>
+    <children>
+      <child nodeId="node-0x254790" />
+    </children>
+  </item>
+  <item nodeId="node-0x254790">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+Sam arrives from the Living Room.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="339">YES</temporary>
+    <children>
+      <child nodeId="node-0x254800" />
+    </children>
+  </item>
+  <item nodeId="node-0x254800">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+You hear a horrible choking and hacking sound. Somewhere, someone has coughed up a hairball.
+
+Sam heads to the Living Room.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="339">YES</temporary>
+    <children>
+      <child nodeId="node-0x2544a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2544a0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+You hear a horrible choking and hacking sound. Somewhere, someone has coughed up a hairball.
+
+Sam arrives from the Living Room.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="339">YES</temporary>
+    <children>
+      <child nodeId="node-0x2544f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2544f0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Living Room
+This room is largeish, with a bank of sunny windows next to the door to the patio facing the street outside. There are lots of places a cat could hide -- especially a cat who does not want to go to the vet. The hallway is to the south, and the kitchen is to the east.
+
+You can see a newspaper and a pappasan here.
+
+Sam arrives from the Kitchen.
+
+There is a large furry tabby cat here.
+
+You are about to drop dead of exhaustion. You really should go sit down.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="339">YES</temporary>
+    <children>
+      <child nodeId="node-0x2549f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2549f0">
+    <command xml:space="preserve">take cat</command>
+    <result xml:space="preserve">Taken.
+
+Sam heads to the Kitchen.
+
+The tabby cat kicks and squirms. It is hard to carry him.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="339">YES</temporary>
+    <children>
+      <child nodeId="node-0x254a60" />
+    </children>
+  </item>
+  <item nodeId="node-0x254a60">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Hallway
+The carpet in the hallway is worn from the scuffling of furry cat feet as they run rapidly from room to room for no apparent reason. The bathroom is to the south and the living room is to the north. There are stairs here that lead up to the attic.
+
+You can see a cat carrier (empty) here.
+
+You hear a horrible choking and hacking sound. Somewhere, someone has coughed up a hairball.
+
+The tabby cat kicks and squirms. It is hard to carry him.
+
+You stumble to your knees and then collapse on the floor, quite surprised to find that the phrase &quot;drop dead of exhaustion&quot; can be literally true.
+
+
+
+    *** You have died ***
+
+
+In that game you scored 2 out of a possible 0, in 18 turns.
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="338">YES</temporary>
+  </item>
+  <item nodeId="node-0x254ad0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="473">YES</temporary>
+    <children>
+      <child nodeId="node-0x254b40" />
+    </children>
+  </item>
+  <item nodeId="node-0x254b40">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Living Room
+This room is largeish, with a bank of sunny windows next to the door to the patio facing the street outside. There are lots of places a cat could hide, especially a cat who does not want to go to the vet. The hallway is to the south, and the kitchen is to the east.
+
+You can see Sam, a pappasan, and a newspaper here.
+
+Sam heads to the Hallway.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="473">YES</temporary>
+    <children>
+      <child nodeId="node-0x254bb0" />
+    </children>
+  </item>
+  <item nodeId="node-0x254bb0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Kitchen
+The kitchen is a bright, sunny room. A wraparound counter provides a place to stand up and eat, and the smell of freshly baked chocolate chip cookies wafts through the air. The tiles on the kitchen floor are faded and chipped from the sunlight. This is clearly the most popular room in the house. The living room is to the west of you.
+
+You can see an Oven (closed) and a Cabinet (closed) here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="473">YES</temporary>
+    <children>
+      <child nodeId="node-0x254c20" />
+    </children>
+  </item>
+  <item nodeId="node-0x254c20">
+    <command xml:space="preserve">open cabinet</command>
+    <result xml:space="preserve">You open the Cabinet, revealing a pair of Potholders.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="473">YES</temporary>
+    <children>
+      <child nodeId="node-0x254c90" />
+    </children>
+  </item>
+  <item nodeId="node-0x254c90">
+    <command xml:space="preserve">wear potholders</command>
+    <result xml:space="preserve">(first taking the pair of Potholders)
+You put on the pair of Potholders.
+
+[Your score has just gone up by one point.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="473">YES</temporary>
+    <children>
+      <child nodeId="node-0x254d00" />
+    </children>
+  </item>
+  <item nodeId="node-0x254d00">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Living Room
+This room is largeish, with a bank of sunny windows next to the door to the patio facing the street outside. There are lots of places a cat could hide, especially a cat who does not want to go to the vet. The hallway is to the south, and the kitchen is to the east.
+
+You can see a tabby cat, a pappasan, and a newspaper here.
+
+The large furry tabby cat leaves.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="473">YES</temporary>
+    <children>
+      <child nodeId="node-0x254d70" />
+    </children>
+  </item>
+  <item nodeId="node-0x254d70">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Hallway
+The carpet in the hallway is worn from the scuffling of furry cat feet as they run rapidly from room to room for no apparent reason. The bathroom is to the south and the living room is to the north. There are stairs here that lead up to the attic. The bedroom is to the west of the hallway.
+
+You can see Sam and a cat carrier (empty) here.
+
+Sam heads to the Bedroom.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="473">YES</temporary>
+    <children>
+      <child nodeId="node-0x254de0" />
+    </children>
+  </item>
+  <item nodeId="node-0x254de0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Bathroom
+The bathroom is small, just large enough to hold a mirror, the sink, the shower, and the toilet.
+
+Opposite the mirror is the shower, which is closed.
+
+You can also see a tabby cat here.
+
+The large furry tabby cat leaves.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="473">YES</temporary>
+    <children>
+      <child nodeId="node-0x254e50" />
+    </children>
+  </item>
+  <item nodeId="node-0x254e50">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Hallway
+The carpet in the hallway is worn from the scuffling of furry cat feet as they run rapidly from room to room for no apparent reason. The bathroom is to the south and the living room is to the north. There are stairs here that lead up to the attic. The bedroom is to the west of the hallway.
+
+You can see Sam and a cat carrier (empty) here.
+
+You hear a horrible choking and hacking sound. Somewhere, someone has coughed up a hairball.
+
+Sam heads to the Bedroom.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="473">YES</temporary>
+    <children>
+      <child nodeId="node-0x254870" />
+    </children>
+  </item>
+  <item nodeId="node-0x254870">
+    <command xml:space="preserve">up</command>
+    <result xml:space="preserve">
+Attic
+The attic smells musty and is filled with junk. It is a large room that spans the entire house. There are a million places a cat could hide. The stairs lead down to the hallway.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="473">YES</temporary>
+    <children>
+      <child nodeId="node-0x2548e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2548e0">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">
+Hallway
+The carpet in the hallway is worn from the scuffling of furry cat feet as they run rapidly from room to room for no apparent reason. The bathroom is to the south and the living room is to the north. There are stairs here that lead up to the attic. The bedroom is to the west of the hallway.
+
+You can see a tabby cat, Sam, and a cat carrier (empty) here.
+
+Sam heads to the Attic.
+
+The large furry tabby cat leaves.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="473">YES</temporary>
+    <children>
+      <child nodeId="node-0x254950" />
+    </children>
+  </item>
+  <item nodeId="node-0x254950">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Bedroom
+The bedroom is just big enough for a king-sized bed. There is a big blue armoire that holds clothes, and a closet in the corner. A bright sunny window looks out over the lawn. The only exit leads back east to the Hallway.
+
+You can see a tabby cat, an armoire (empty), and a bed here.
+
+The large furry tabby cat leaves.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="473">YES</temporary>
+    <children>
+      <child nodeId="node-0x255100" />
+    </children>
+  </item>
+  <item nodeId="node-0x255100">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Hallway
+The carpet in the hallway is worn from the scuffling of furry cat feet as they run rapidly from room to room for no apparent reason. The bathroom is to the south and the living room is to the north. There are stairs here that lead up to the attic. The bedroom is to the west of the hallway.
+
+You can see Sam and a cat carrier (empty) here.
+
+Sam heads to the Living Room.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="473">YES</temporary>
+    <children>
+      <child nodeId="node-0x255170" />
+    </children>
+  </item>
+  <item nodeId="node-0x255170">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Living Room
+This room is largeish, with a bank of sunny windows next to the door to the patio facing the street outside. There are lots of places a cat could hide, especially a cat who does not want to go to the vet. The hallway is to the south, and the kitchen is to the east.
+
+You can see Sam, a pappasan, and a newspaper here.
+
+Sam heads to the Hallway.
+
+There is a large furry tabby cat here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="473">YES</temporary>
+    <children>
+      <child nodeId="node-0x2551e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2551e0">
+    <command xml:space="preserve">take cat</command>
+    <result xml:space="preserve">Taken.
+
+The tabby cat kicks and squirms. It is hard to carry him.
+With a supreme effort and a baleful look, the tabby cat escapes from your grasp.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="473">YES</temporary>
+    <children>
+      <child nodeId="node-0x255250" />
+    </children>
+  </item>
+  <item nodeId="node-0x255250">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Hallway
+The carpet in the hallway is worn from the scuffling of furry cat feet as they run rapidly from room to room for no apparent reason. The bathroom is to the south and the living room is to the north. There are stairs here that lead up to the attic. The bedroom is to the west of the hallway.
+
+You can see a cat carrier (empty) here.
+
+Sam arrives from the Attic.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="473">YES</temporary>
+    <children>
+      <child nodeId="node-0x2552c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2552c0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Bathroom
+The bathroom is small, just large enough to hold a mirror, the sink, the shower, and the toilet.
+
+Opposite the mirror is the shower, which is closed.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="473">YES</temporary>
+    <children>
+      <child nodeId="node-0x255330" />
+    </children>
+  </item>
+  <item nodeId="node-0x255330">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Hallway
+The carpet in the hallway is worn from the scuffling of furry cat feet as they run rapidly from room to room for no apparent reason. The bathroom is to the south and the living room is to the north. There are stairs here that lead up to the attic. The bedroom is to the west of the hallway.
+
+You can see a cat carrier (empty) here.
+
+Sam arrives from the Bedroom.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="473">YES</temporary>
+    <children>
+      <child nodeId="node-0x2553a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2553a0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Living Room
+This room is largeish, with a bank of sunny windows next to the door to the patio facing the street outside. There are lots of places a cat could hide, especially a cat who does not want to go to the vet. The hallway is to the south, and the kitchen is to the east.
+
+You can see a pappasan and a newspaper here.
+
+Sam arrives from the Hallway.
+
+There is a large furry tabby cat here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="473">YES</temporary>
+    <children>
+      <child nodeId="node-0x255410" />
+    </children>
+  </item>
+  <item nodeId="node-0x255410">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Kitchen
+The kitchen is a bright, sunny room. A wraparound counter provides a place to stand up and eat, and the smell of freshly baked chocolate chip cookies wafts through the air. The tiles on the kitchen floor are faded and chipped from the sunlight. This is clearly the most popular room in the house. The living room is to the west of you.
+
+You can see an Oven (closed) and a Cabinet (empty) here.
+
+Sam arrives from the Living Room.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="473">YES</temporary>
+    <children>
+      <child nodeId="node-0x255480" />
+    </children>
+  </item>
+  <item nodeId="node-0x255480">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Living Room
+This room is largeish, with a bank of sunny windows next to the door to the patio facing the street outside. There are lots of places a cat could hide, especially a cat who does not want to go to the vet. The hallway is to the south, and the kitchen is to the east.
+
+You can see a pappasan and a newspaper here.
+
+Sam arrives from the Kitchen.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="473">YES</temporary>
+    <children>
+      <child nodeId="node-0x2554f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2554f0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Hallway
+The carpet in the hallway is worn from the scuffling of furry cat feet as they run rapidly from room to room for no apparent reason. The bathroom is to the south and the living room is to the north. There are stairs here that lead up to the attic. The bedroom is to the west of the hallway.
+
+You can see a cat carrier (empty) here.
+
+Sam arrives from the Living Room.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="473">YES</temporary>
+    <children>
+      <child nodeId="node-0x255560" />
+    </children>
+  </item>
+  <item nodeId="node-0x255560">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Bathroom
+The bathroom is small, just large enough to hold a mirror, the sink, the shower, and the toilet.
+
+Opposite the mirror is the shower, which is closed.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="473">YES</temporary>
+    <children>
+      <child nodeId="node-0x2555d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2555d0">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying:
+  a pair of Potholders (being worn)
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="473">YES</temporary>
+    <children>
+      <child nodeId="node-0x255640" />
+    </children>
+  </item>
+  <item nodeId="node-0x255640">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Hallway
+The carpet in the hallway is worn from the scuffling of furry cat feet as they run rapidly from room to room for no apparent reason. The bathroom is to the south and the living room is to the north. There are stairs here that lead up to the attic. The bedroom is to the west of the hallway.
+
+You can see Sam and a cat carrier (empty) here.
+
+Sam heads to the Bathroom.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="473">YES</temporary>
+    <children>
+      <child nodeId="node-0x2556b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2556b0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Living Room
+This room is largeish, with a bank of sunny windows next to the door to the patio facing the street outside. There are lots of places a cat could hide, especially a cat who does not want to go to the vet. The hallway is to the south, and the kitchen is to the east.
+
+You can see a pappasan and a newspaper here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="473">YES</temporary>
+    <children>
+      <child nodeId="node-0x255720" />
+    </children>
+  </item>
+  <item nodeId="node-0x255720">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Kitchen
+The kitchen is a bright, sunny room. A wraparound counter provides a place to stand up and eat, and the smell of freshly baked chocolate chip cookies wafts through the air. The tiles on the kitchen floor are faded and chipped from the sunlight. This is clearly the most popular room in the house. The living room is to the west of you.
+
+You can see a tabby cat, an Oven (closed), and a Cabinet (empty) here.
+
+You hear a horrible choking and hacking sound. Somewhere, someone has coughed up a hairball.
+
+The large furry tabby cat leaves.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="473">YES</temporary>
+    <children>
+      <child nodeId="node-0x255790" />
+    </children>
+  </item>
+  <item nodeId="node-0x255790">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Living Room
+This room is largeish, with a bank of sunny windows next to the door to the patio facing the street outside. There are lots of places a cat could hide, especially a cat who does not want to go to the vet. The hallway is to the south, and the kitchen is to the east.
+
+You can see a tabby cat, a pappasan, and a newspaper here.
+
+The large furry tabby cat leaves.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="473">YES</temporary>
+    <children>
+      <child nodeId="node-0x255800" />
+    </children>
+  </item>
+  <item nodeId="node-0x255800">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Kitchen
+The kitchen is a bright, sunny room. A wraparound counter provides a place to stand up and eat, and the smell of freshly baked chocolate chip cookies wafts through the air. The tiles on the kitchen floor are faded and chipped from the sunlight. This is clearly the most popular room in the house. The living room is to the west of you.
+
+You can see an Oven (closed) and a Cabinet (empty) here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="473">YES</temporary>
+    <children>
+      <child nodeId="node-0x254ec0" />
+    </children>
+  </item>
+  <item nodeId="node-0x254ec0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Living Room
+This room is largeish, with a bank of sunny windows next to the door to the patio facing the street outside. There are lots of places a cat could hide, especially a cat who does not want to go to the vet. The hallway is to the south, and the kitchen is to the east.
+
+You can see a pappasan and a newspaper here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="473">YES</temporary>
+    <children>
+      <child nodeId="node-0x254f30" />
+    </children>
+  </item>
+  <item nodeId="node-0x254f30">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Hallway
+The carpet in the hallway is worn from the scuffling of furry cat feet as they run rapidly from room to room for no apparent reason. The bathroom is to the south and the living room is to the north. There are stairs here that lead up to the attic. The bedroom is to the west of the hallway.
+
+You can see Sam and a cat carrier (empty) here.
+
+Sam heads to the Bathroom.
+
+There is a large furry tabby cat here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="473">YES</temporary>
+    <children>
+      <child nodeId="node-0x254fa0" />
+    </children>
+  </item>
+  <item nodeId="node-0x254fa0">
+    <command xml:space="preserve">take cat</command>
+    <result xml:space="preserve">Which do you mean, the tabby cat or the cat carrier?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="473">YES</temporary>
+    <children>
+      <child nodeId="node-0x255010" />
+    </children>
+  </item>
+  <item nodeId="node-0x255010">
+    <command xml:space="preserve">take tabby cat</command>
+    <result xml:space="preserve">Taken.
+
+Sam arrives from the Bathroom.
+
+The tabby cat kicks and squirms. It is hard to carry him.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="473">YES</temporary>
+    <children>
+      <child nodeId="node-0x255080" />
+    </children>
+  </item>
+  <item nodeId="node-0x255080">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Living Room
+This room is largeish, with a bank of sunny windows next to the door to the patio facing the street outside. There are lots of places a cat could hide, especially a cat who does not want to go to the vet. The hallway is to the south, and the kitchen is to the east.
+
+You can see a pappasan and a newspaper here.
+
+Sam arrives from the Hallway.
+
+The tabby cat kicks and squirms. It is hard to carry him.
+With a supreme effort and a baleful look, the tabby cat escapes from your grasp.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="472">YES</temporary>
+  </item>
+  <item nodeId="node-0x255870">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Bedroom
+The bedroom is just big enough for a king-sized bed. There is a big blue armoire that holds clothes, and a closet in the corner. A bright sunny window looks out over the lawn. The only exit leads back east to the Hallway.
+
+You can see an armoire (empty) and a bed here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="361">YES</temporary>
+    <children>
+      <child nodeId="node-0x2558e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2558e0">
+    <command xml:space="preserve">gte in bed</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="361">YES</temporary>
+    <children>
+      <child nodeId="node-0x255950" />
+    </children>
+  </item>
+  <item nodeId="node-0x255950">
+    <command xml:space="preserve">get in bed</command>
+    <result xml:space="preserve">Ahhhh! It feels so nice to lie down. But shouldn&apos;t you be trying to Get That Cat?
+
+There is a large furry tabby cat here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="361">YES</temporary>
+    <children>
+      <child nodeId="node-0x2559c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2559c0">
+    <command xml:space="preserve">restart</command>
+    <result xml:space="preserve">Are you sure you want to restart? </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="361">YES</temporary>
+    <children>
+      <child nodeId="node-0x255a30" />
+    </children>
+  </item>
+  <item nodeId="node-0x255a30">
+    <command xml:space="preserve">yes</command>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="360">YES</temporary>
+  </item>
+  <item nodeId="node-0x255aa0">
+    <command xml:space="preserve">look under pappasan</command>
+    <result xml:space="preserve">You find nothing of interest.
+
+Sam heads to the Hallway.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="361">YES</temporary>
+  </item>
+  <item nodeId="node-0x255b10">
+    <command xml:space="preserve">x pappasan</command>
+    <result xml:space="preserve">What more is there to say? It&apos;s a pappasan.
+
+Sam heads to the Hallway.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="365">YES</temporary>
+    <children>
+      <child nodeId="node-0x255b80" />
+    </children>
+  </item>
+  <item nodeId="node-0x255b80">
+    <command xml:space="preserve">x newspaper</command>
+    <result xml:space="preserve">It is called the Englewood Times. There are all sorts of stories about traffic congestion in New Jersey, the hot, sticky weather, the Yankees losing to the Red Sox, what the heck is a pappasan? and so on, and so forth...
+
+[Your score has just gone up by one point.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="365">YES</temporary>
+    <children>
+      <child nodeId="node-0x255bf0" />
+    </children>
+  </item>
+  <item nodeId="node-0x255bf0">
+    <command xml:space="preserve">sit on pappasan</command>
+    <result xml:space="preserve">You have a seat on the pappasan. It creaks and flexes. Ahhhhhh... But this is no time to relax! There&apos;s a cat to catch!
+
+[Your score has just gone up by one point.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="364">YES</temporary>
+  </item>
+  <item nodeId="node-0x255cd0">
+    <command xml:space="preserve">look out windows</command>
+    <result xml:space="preserve">I only understood you as far as wanting to look outside.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="348">YES</temporary>
+    <children>
+      <child nodeId="node-0x255d40" />
+    </children>
+  </item>
+  <item nodeId="node-0x255d40">
+    <command xml:space="preserve">look at windows</command>
+    <result xml:space="preserve">The windows are big and bright and look out on West Ivy Lane. Your beat-up maroon station wagon is idling outside, waiitng for you to load the cat into the car.
+
+You hear a horrible choking and hacking sound. Somewhere, someone has coughed up a hairball.
+
+Sam heads to the Hallway.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="348">YES</temporary>
+    <children>
+      <child nodeId="node-0x255db0" />
+    </children>
+  </item>
+  <item nodeId="node-0x255db0">
+    <command xml:space="preserve">look at window</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="348">YES</temporary>
+    <children>
+      <child nodeId="node-0x255e20" />
+    </children>
+  </item>
+  <item nodeId="node-0x255e20">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Kitchen
+The kitchen is a bright, sunny room. A wraparound counter provides a place to stand up and eat, and the smell of freshly baked chocolate chip cookies wafts through the air. The tiles on the kitchen floor are faded and chipped from the sunlight. This is clearly the most popular room in the house. The living room is to the west of you.
+
+You can see an Oven (closed) and a Cabinet (closed) here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="348">YES</temporary>
+    <children>
+      <child nodeId="node-0x255e90" />
+    </children>
+  </item>
+  <item nodeId="node-0x255e90">
+    <command xml:space="preserve">look at counter</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="348">YES</temporary>
+    <children>
+      <child nodeId="node-0x255f00" />
+    </children>
+  </item>
+  <item nodeId="node-0x255f00">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="347">YES</temporary>
+  </item>
+  <item nodeId="node-0x255c60">
+    <command xml:space="preserve">look at windows</command>
+    <result xml:space="preserve">The windows are big and bright and look out on West Ivy Lane. Your beat-up maroon station wagon is idling outside, waiting for you to load the cat into the car.
+
+Sam heads to the Kitchen.
+
+There is a large furry tabby cat here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="2">YES</temporary>
+  </item>
+  <item nodeId="node-0x255f70">
+    <command xml:space="preserve">take newspaper</command>
+    <result xml:space="preserve">Taken.
+
+Sam heads to the Hallway.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="384">YES</temporary>
+    <children>
+      <child nodeId="node-0x255fe0" />
+    </children>
+  </item>
+  <item nodeId="node-0x255fe0">
+    <command xml:space="preserve">x newspaper</command>
+    <result xml:space="preserve">It is called the Englewood Times. There are all sorts of stories about traffic congestion in New Jersey, the hot, sticky weather, the Yankees losing to the Red Sox, what the heck is a pappasan? and so on, and so forth...
+
+[Your score has just gone up by one point.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="384">YES</temporary>
+    <children>
+      <child nodeId="node-0x256050" />
+    </children>
+  </item>
+  <item nodeId="node-0x256050">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Kitchen
+The kitchen is a bright, sunny room. A wraparound counter provides a place to stand up and eat, and the smell of freshly baked chocolate chip cookies wafts through the air. The tiles on the kitchen floor are faded and chipped from the sunlight. This is clearly the most popular room in the house. The living room is to the west of you.
+
+You can see an Oven (closed) and a Cabinet (closed) here.
+
+You hear a horrible choking and hacking sound. Somewhere, someone has coughed up a hairball.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="384">YES</temporary>
+    <children>
+      <child nodeId="node-0x2560c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2560c0">
+    <command xml:space="preserve">x oven</command>
+    <result xml:space="preserve">An old working model from the 1970s, it is used but serviceable. In fact, it has to be serviced all the time.
+
+[Your score has just gone up by one point.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="384">YES</temporary>
+    <children>
+      <child nodeId="node-0x256130" />
+    </children>
+  </item>
+  <item nodeId="node-0x256130">
+    <command xml:space="preserve">smell</command>
+    <result xml:space="preserve">You smell nothing unexpected.
+
+There is a large furry tabby cat here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="384">YES</temporary>
+    <children>
+      <child nodeId="node-0x2561a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2561a0">
+    <command xml:space="preserve">take cat</command>
+    <result xml:space="preserve">You look at his claws and teeth and think otherwise. The vet doesn&apos;t carry Band-Aids.
+
+You hear a horrible choking and hacking sound. Somewhere, someone has coughed up a hairball.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="384">YES</temporary>
+    <children>
+      <child nodeId="node-0x256210" />
+    </children>
+  </item>
+  <item nodeId="node-0x256210">
+    <command xml:space="preserve">open oven</command>
+    <result xml:space="preserve">A blast of hot air and the aroma of soft, chewy chocolate chip cookies greets you as you peer eagerly into the hot oven.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="384">YES</temporary>
+    <children>
+      <child nodeId="node-0x256280" />
+    </children>
+  </item>
+  <item nodeId="node-0x256280">
+    <command xml:space="preserve">take cookies</command>
+    <result xml:space="preserve">You&apos;ll need something to protect your hands!
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="384">YES</temporary>
+    <children>
+      <child nodeId="node-0x2562f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2562f0">
+    <command xml:space="preserve">open cabinet</command>
+    <result xml:space="preserve">You open the Cabinet, revealing a pair of Potholders.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="384">YES</temporary>
+    <children>
+      <child nodeId="node-0x256360" />
+    </children>
+  </item>
+  <item nodeId="node-0x256360">
+    <command xml:space="preserve">x cabinet</command>
+    <result xml:space="preserve">The cabinet stores pots, pans, and other cooking implements.
+
+In the Cabinet is a pair of Potholders.
+
+[Your score has just gone up by one point.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="384">YES</temporary>
+    <children>
+      <child nodeId="node-0x2563d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2563d0">
+    <command xml:space="preserve">take potholders</command>
+    <result xml:space="preserve">There is a large furry tabby cat here.
+
+[Your score has just gone up by one point.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="384">YES</temporary>
+    <children>
+      <child nodeId="node-0x256440" />
+    </children>
+  </item>
+  <item nodeId="node-0x256440">
+    <command xml:space="preserve">x cabinet</command>
+    <result xml:space="preserve">The cabinet stores pots, pans, and other cooking implements.
+
+There is a large furry tabby cat here.
+
+[Your score has just gone up by one point.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="384">YES</temporary>
+    <children>
+      <child nodeId="node-0x2564b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2564b0">
+    <command xml:space="preserve">take cat</command>
+    <result xml:space="preserve">You look at his claws and teeth and think otherwise. The vet doesn&apos;t carry Band-Aids.
+
+There is a large furry tabby cat here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="384">YES</temporary>
+    <children>
+      <child nodeId="node-0x256520" />
+    </children>
+  </item>
+  <item nodeId="node-0x256520">
+    <command xml:space="preserve">put on potholders</command>
+    <result xml:space="preserve">You put on the pair of Potholders.
+
+There is a large furry tabby cat here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="384">YES</temporary>
+    <children>
+      <child nodeId="node-0x256590" />
+    </children>
+  </item>
+  <item nodeId="node-0x256590">
+    <command xml:space="preserve">take cat</command>
+    <result xml:space="preserve">Taken.
+
+The tabby cat kicks and squirms. It is hard to carry him.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="384">YES</temporary>
+    <children>
+      <child nodeId="node-0x256600" />
+    </children>
+  </item>
+  <item nodeId="node-0x256600">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Living Room
+This room is largeish, with a bank of sunny windows next to the door to the patio facing the street outside. There are lots of places a cat could hide, especially a cat who does not want to go to the vet. The hallway is to the south, and the kitchen is to the east.
+
+You can see a pappasan here.
+
+The tabby cat kicks and squirms. It is hard to carry him.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="384">YES</temporary>
+    <children>
+      <child nodeId="node-0x256670" />
+    </children>
+  </item>
+  <item nodeId="node-0x256670">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Hallway
+The carpet in the hallway is worn from the scuffling of furry cat feet as they run rapidly from room to room for no apparent reason. The bathroom is to the south and the living room is to the north. There are stairs here that lead up to the attic. The bedroom is to the west of the hallway.
+
+You can see a cat carrier (empty) here.
+
+Sam arrives from the Bathroom.
+
+The tabby cat kicks and squirms. It is hard to carry him.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="384">YES</temporary>
+    <children>
+      <child nodeId="node-0x2566e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2566e0">
+    <command xml:space="preserve">put cat in cat carrier</command>
+    <result xml:space="preserve">(the tabby cat in the cat carrier)
+You put the tabby cat into the cat carrier.
+
+Sam heads to the Living Room.
+
+You win!
+
+
+
+    *** You have won ***
+
+
+In that game you scored 5 out of a possible 20, in 18 turns.
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="384">YES</temporary>
+    <children>
+      <child nodeId="node-0x256750" />
+    </children>
+  </item>
+  <item nodeId="node-0x256750">
+    <command xml:space="preserve">restart</command>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="383">YES</temporary>
+  </item>
+  <item nodeId="node-0x2567c0">
+    <command xml:space="preserve">x sam</command>
+    <result xml:space="preserve">Sam is a black and white cat.
+
+Sam heads to the Hallway.
+
+[Your score has just gone up by one point.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="320">YES</temporary>
+    <children>
+      <child nodeId="node-0x256830" />
+    </children>
+  </item>
+  <item nodeId="node-0x256830">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Hallway
+The carpet in the hallway is worn from the scuffling of furry cat feet as they run rapidly from room to room for no apparent reason. The bathroom is to the south and the living room is to the north. There are stairs here that lead up to the attic.
+
+You can see Sam and a cat carrier (empty) here.
+
+Sam heads to the Bathroom.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="320">YES</temporary>
+    <children>
+      <child nodeId="node-0x2568a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2568a0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Bathroom
+The bathroom is small, just large enough to hold a mirror, the sink, the shower, and the toilet.
+
+Opposite the mirror is the shower, which is closed.
+
+You can also see a tabby cat and Sam here.
+
+Sam heads to the Hallway.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="320">YES</temporary>
+    <children>
+      <child nodeId="node-0x256910" />
+    </children>
+  </item>
+  <item nodeId="node-0x256910">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Hallway
+The carpet in the hallway is worn from the scuffling of furry cat feet as they run rapidly from room to room for no apparent reason. The bathroom is to the south and the living room is to the north. There are stairs here that lead up to the attic.
+
+You can see Sam and a cat carrier (empty) here.
+
+Sam heads to the Bathroom.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="320">YES</temporary>
+    <children>
+      <child nodeId="node-0x256980" />
+    </children>
+  </item>
+  <item nodeId="node-0x256980">
+    <command xml:space="preserve">x sam</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="320">YES</temporary>
+    <children>
+      <child nodeId="node-0x2569f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2569f0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+Sam arrives from the Bathroom.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="320">YES</temporary>
+    <children>
+      <child nodeId="node-0x256a60" />
+    </children>
+  </item>
+  <item nodeId="node-0x256a60">
+    <command xml:space="preserve">x sam</command>
+    <result xml:space="preserve">Sam is a black and white cat.
+
+You hear a horrible choking and hacking sound. Somewhere, someone has coughed up a hairball.
+
+Sam heads to the Attic.
+
+You realize that you have only ten more minutes to get the cat into his carrier.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="319">YES</temporary>
+  </item>
+</Skein>

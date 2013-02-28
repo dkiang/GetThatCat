@@ -92,7 +92,7 @@ After examining the shower: increase score by 1.
 Instead of opening or entering the shower, say "The lock is broken and can't be fixed."
 Instead of taking the Tabby Cat when the player is not wearing the pair of Potholders:
 	say "You look at his claws and teeth and think otherwise. The vet doesn't carry Band-Aids." 
-The patio door is scenery in the Living Room. Instead of opening or entering the Patio Door, say "The door is barred from the outside."
+The patio door is scenery in the Living Room. Instead of opening or entering the Patio Door, say "The door is barred from the outside. No way to get out."
 At 9:15 AM: say "You realize that you have only fifteen more minutes to get the cat into his carrier." At 9:23 AM: say "Your exhaustion is threatening to send you crashing to the floor, unable to move." At 9:30 AM: say "You are about to drop dead of exhaustion. 'The cats will be the death of me,' you always said."
 At 9:33 AM:
     say "You stumble to your knees and then collapse on the floor, quite surprised to find that the phrase 'drop dead of exhaustion' can be literally true.";

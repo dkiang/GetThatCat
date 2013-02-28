@@ -11362,7 +11362,7 @@ self = noun;
 self = noun;
    if (debug_rules) DB_Rule(R_771, 771);
       ! phrase 1
-      ! [1: say ~The door is barred from the outside.~]
+      ! [1: say ~The door is barred from the outside. No way to get out.~]
       say__p=1;ParaContent();  print (PrintText) SC_54;  new_line; .L_Say21; .L_SayX21;
       RulebookFails(); rtrue;
    } ! Runs only when pattern matches
@@ -28547,7 +28547,7 @@ Constant SC_11 = "The bathroom is small, just large enough to hold a mirror, the
 Constant SC_23 = "The bedroom is just big enough for a king-sized bed. There is a big blue armoire that holds clothes, and a closet in the corner. A bright sunny window looks out over the lawn. The only exit leads back east to the Hallway.";
 Constant SC_19 = "The cabinet stores pots, pans, and other cooking implements.";
 Constant SC_21 = "The carpet in the hallway is worn from the scuffling of furry cat feet as they run rapidly from room to room for no apparent reason. The bathroom is to the south and the living room is to the north. There are stairs here that lead up to the attic. The bedroom is to the west of the hallway.";
-Constant SC_54 = "The door is barred from the outside.";
+Constant SC_54 = "The door is barred from the outside. No way to get out.";
 Constant SC_17 = "The kitchen is a bright, sunny room. A wraparound counter provides a place to stand up and eat, and the smell of freshly baked chocolate chip cookies wafts through the air. The tiles on the kitchen floor are faded and chipped from the sunlight. This is clearly the most popular room in the house. The living room is to the west of you.";
 Constant SC_39 = "The large furry tabby cat leaves.";
 Constant SC_53 = "The lock is broken and can't be fixed.";

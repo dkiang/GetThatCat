@@ -12,7 +12,7 @@ You sigh and hang up the phone. This morning you had been looking forward to kic
 
 Get That Cat!
 Steel Cage Match by Douglas Kiang The release number is 1
-Release 1 / Serial number 110915 / Inform 7 build 6G60 (I6/v6.32 lib 6/12N) SD
+Release 1 / Serial number 130228 / Inform 7 build 6G60 (I6/v6.32 lib 6/12N) SD
 
 Living Room
 This room is largeish, with a bank of sunny windows next to the door to the patio facing the street outside. There are lots of places a cat could hide, especially a cat who does not want to go to the vet. The hallway is to the south, and the kitchen is to the east.
@@ -22,7 +22,7 @@ You can see a pappasan, Sam, and a newspaper here.
 &gt;</result>
     <played>YES</played>
     <changed>NO</changed>
-    <temporary score="3">NO</temporary>
+    <temporary score="4">NO</temporary>
     <children>
       <child nodeId="node-0x83fbf50" />
       <child nodeId="node-0x1b4d7f0" />
@@ -41,10 +41,12 @@ The carpet in the hallway is worn from the scuffling of furry cat feet as they r
 
 You can see a cat carrier (empty) here.
 
+Sam arrives from the Living Room.
+
 &gt;</result>
     <played>YES</played>
-    <changed>NO</changed>
-    <temporary score="473">YES</temporary>
+    <changed>YES</changed>
+    <temporary score="4">YES</temporary>
     <children>
       <child nodeId="node-0x8301010" />
       <child nodeId="node-0x8301430" />
@@ -62,11 +64,23 @@ Opposite the mirror is the shower, which is closed.
 
 &gt;</result>
     <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="313">YES</temporary>
+    <changed>NO</changed>
+    <temporary score="4">YES</temporary>
     <children>
       <child nodeId="node-0x8302070" />
+      <child nodeId="node-0x81faa60" />
     </children>
+  </item>
+  <item nodeId="node-0x81faa60">
+    <command xml:space="preserve">examine toilet</command>
+    <result xml:space="preserve">This is your litterbox. It needs a good cleaning. Now is probably not the best time.
+
+[Your score has just gone up by one point.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3">YES</temporary>
   </item>
   <item nodeId="node-0x8302070">
     <command xml:space="preserve">n</command>

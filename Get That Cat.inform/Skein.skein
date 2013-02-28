@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
-<Skein rootNode="node-0x253d10" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+<Skein rootNode="node-0x1d045d0" xmlns="http://www.logicalshift.org.uk/IF/Skein">
   <generator>Zoom</generator>
-  <activeNode nodeId="node-0x253d10" />
-  <item nodeId="node-0x253d10">
+  <activeNode nodeId="node-0x1d045d0" />
+  <item nodeId="node-0x1d045d0">
     <command xml:space="preserve">- start -</command>
     <result xml:space="preserve">
 
@@ -24,16 +24,16 @@ You can see a pappasan, Sam, and a newspaper here.
     <changed>NO</changed>
     <temporary score="3">NO</temporary>
     <children>
-      <child nodeId="node-0x2567c0" />
-      <child nodeId="node-0x255f70" />
-      <child nodeId="node-0x255c60" />
-      <child nodeId="node-0x255cd0" />
-      <child nodeId="node-0x255b10" />
-      <child nodeId="node-0x255aa0" />
-      <child nodeId="node-0x253d70" />
+      <child nodeId="node-0x83fbf50" />
+      <child nodeId="node-0x1b4d7f0" />
+      <child nodeId="node-0x1b4d780" />
+      <child nodeId="node-0x83002e0" />
+      <child nodeId="node-0x83004b0" />
+      <child nodeId="node-0x8300440" />
+      <child nodeId="node-0x1d04620" />
     </children>
   </item>
-  <item nodeId="node-0x253d70">
+  <item nodeId="node-0x1d04620">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Hallway
@@ -46,13 +46,13 @@ You can see a cat carrier (empty) here.
     <changed>NO</changed>
     <temporary score="473">YES</temporary>
     <children>
-      <child nodeId="node-0x255870" />
-      <child nodeId="node-0x254ad0" />
-      <child nodeId="node-0x2541c0" />
-      <child nodeId="node-0x253e20" />
+      <child nodeId="node-0x8301010" />
+      <child nodeId="node-0x8301430" />
+      <child nodeId="node-0x8301e90" />
+      <child nodeId="node-0x8302020" />
     </children>
   </item>
-  <item nodeId="node-0x253e20">
+  <item nodeId="node-0x8302020">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Bathroom
@@ -65,10 +65,10 @@ Opposite the mirror is the shower, which is closed.
     <changed>YES</changed>
     <temporary score="313">YES</temporary>
     <children>
-      <child nodeId="node-0x253e70" />
+      <child nodeId="node-0x8302070" />
     </children>
   </item>
-  <item nodeId="node-0x253e70">
+  <item nodeId="node-0x8302070">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Hallway
@@ -81,10 +81,10 @@ You can see a tabby cat and a cat carrier (empty) here.
     <changed>YES</changed>
     <temporary score="313">YES</temporary>
     <children>
-      <child nodeId="node-0x2540e0" />
+      <child nodeId="node-0x8301df0" />
     </children>
   </item>
-  <item nodeId="node-0x2540e0">
+  <item nodeId="node-0x8301df0">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Living Room
@@ -103,10 +103,10 @@ There is a large furry tabby cat here.
     <changed>YES</changed>
     <temporary score="313">YES</temporary>
     <children>
-      <child nodeId="node-0x254150" />
+      <child nodeId="node-0x8301e40" />
     </children>
   </item>
-  <item nodeId="node-0x254150">
+  <item nodeId="node-0x8301e40">
     <command xml:space="preserve">x sam</command>
     <result xml:space="preserve">Sam is a black and white cat.
 
@@ -119,7 +119,7 @@ Sam heads to the Kitchen.
     <changed>YES</changed>
     <temporary score="312">YES</temporary>
   </item>
-  <item nodeId="node-0x2541c0">
+  <item nodeId="node-0x8301e90">
     <command xml:space="preserve">x tabby cat</command>
     <result xml:space="preserve">The tabby cat is older and wiser than you. His fur is matted and tangled, with a pink nose and a prominent M on his forehead. He gazes at you with a look that is part interest, part contempt. He yawns.
 
@@ -128,10 +128,10 @@ Sam heads to the Kitchen.
     <changed>YES</changed>
     <temporary score="339">YES</temporary>
     <children>
-      <child nodeId="node-0x2542b0" />
+      <child nodeId="node-0x8301c50" />
     </children>
   </item>
-  <item nodeId="node-0x2542b0">
+  <item nodeId="node-0x8301c50">
     <command xml:space="preserve">win</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -140,10 +140,10 @@ Sam heads to the Kitchen.
     <changed>YES</changed>
     <temporary score="339">YES</temporary>
     <children>
-      <child nodeId="node-0x254300" />
+      <child nodeId="node-0x8301ca0" />
     </children>
   </item>
-  <item nodeId="node-0x254300">
+  <item nodeId="node-0x8301ca0">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -154,10 +154,10 @@ Sam arrives from the Living Room.
     <changed>YES</changed>
     <temporary score="339">YES</temporary>
     <children>
-      <child nodeId="node-0x254350" />
+      <child nodeId="node-0x8301cf0" />
     </children>
   </item>
-  <item nodeId="node-0x254350">
+  <item nodeId="node-0x8301cf0">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Living Room
@@ -170,10 +170,10 @@ You can see a tabby cat, a newspaper and a pappasan here.
     <changed>YES</changed>
     <temporary score="339">YES</temporary>
     <children>
-      <child nodeId="node-0x2543c0" />
+      <child nodeId="node-0x8301d40" />
     </children>
   </item>
-  <item nodeId="node-0x2543c0">
+  <item nodeId="node-0x8301d40">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Kitchen
@@ -188,10 +188,10 @@ You hear a horrible choking and hacking sound. Somewhere, someone has coughed up
     <changed>YES</changed>
     <temporary score="339">YES</temporary>
     <children>
-      <child nodeId="node-0x254430" />
+      <child nodeId="node-0x8301d90" />
     </children>
   </item>
-  <item nodeId="node-0x254430">
+  <item nodeId="node-0x8301d90">
     <command xml:space="preserve">open oven</command>
     <result xml:space="preserve">A blast of hot air and the aroma of soft, chewy chocolate chip cookies greets you as you peer eagerly into the hot oven.
 
@@ -202,10 +202,10 @@ You realize that you have only ten more minutes to get the cat into his carrier.
     <changed>YES</changed>
     <temporary score="339">YES</temporary>
     <children>
-      <child nodeId="node-0x254560" />
+      <child nodeId="node-0x8301b70" />
     </children>
   </item>
-  <item nodeId="node-0x254560">
+  <item nodeId="node-0x8301b70">
     <command xml:space="preserve">take cookies</command>
     <result xml:space="preserve">You&apos;ll need something to protect your hands!
 
@@ -216,10 +216,10 @@ You hear a horrible choking and hacking sound. Somewhere, someone has coughed up
     <changed>YES</changed>
     <temporary score="339">YES</temporary>
     <children>
-      <child nodeId="node-0x254250" />
+      <child nodeId="node-0x8301ee0" />
     </children>
   </item>
-  <item nodeId="node-0x254250">
+  <item nodeId="node-0x8301ee0">
     <command xml:space="preserve">open cabinet</command>
     <result xml:space="preserve">You open the Cabinet, revealing a pair of Potholders.
 
@@ -230,10 +230,10 @@ You hear a horrible choking and hacking sound. Somewhere, someone has coughed up
     <changed>YES</changed>
     <temporary score="339">YES</temporary>
     <children>
-      <child nodeId="node-0x2545d0" />
+      <child nodeId="node-0x8301bc0" />
     </children>
   </item>
-  <item nodeId="node-0x2545d0">
+  <item nodeId="node-0x8301bc0">
     <command xml:space="preserve">take potholders.</command>
     <result xml:space="preserve">[Your score has just gone up by one point.]
 
@@ -242,10 +242,10 @@ You hear a horrible choking and hacking sound. Somewhere, someone has coughed up
     <changed>YES</changed>
     <temporary score="339">YES</temporary>
     <children>
-      <child nodeId="node-0x254640" />
+      <child nodeId="node-0x8301910" />
     </children>
   </item>
-  <item nodeId="node-0x254640">
+  <item nodeId="node-0x8301910">
     <command xml:space="preserve">wear potholders</command>
     <result xml:space="preserve">You put on the pair of Potholders.
 
@@ -256,10 +256,10 @@ You hear a horrible choking and hacking sound. Somewhere, someone has coughed up
     <changed>YES</changed>
     <temporary score="339">YES</temporary>
     <children>
-      <child nodeId="node-0x2546b0" />
+      <child nodeId="node-0x8301960" />
     </children>
   </item>
-  <item nodeId="node-0x2546b0">
+  <item nodeId="node-0x8301960">
     <command xml:space="preserve">take cookies</command>
     <result xml:space="preserve">Your exhaustion is threatening to send you crashing to the floor, unable to move.
 
@@ -270,10 +270,10 @@ You hear a horrible choking and hacking sound. Somewhere, someone has coughed up
     <changed>YES</changed>
     <temporary score="339">YES</temporary>
     <children>
-      <child nodeId="node-0x254720" />
+      <child nodeId="node-0x83019d0" />
     </children>
   </item>
-  <item nodeId="node-0x254720">
+  <item nodeId="node-0x83019d0">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -282,10 +282,10 @@ You hear a horrible choking and hacking sound. Somewhere, someone has coughed up
     <changed>YES</changed>
     <temporary score="339">YES</temporary>
     <children>
-      <child nodeId="node-0x254790" />
+      <child nodeId="node-0x8301a40" />
     </children>
   </item>
-  <item nodeId="node-0x254790">
+  <item nodeId="node-0x8301a40">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -296,10 +296,10 @@ Sam arrives from the Living Room.
     <changed>YES</changed>
     <temporary score="339">YES</temporary>
     <children>
-      <child nodeId="node-0x254800" />
+      <child nodeId="node-0x8301790" />
     </children>
   </item>
-  <item nodeId="node-0x254800">
+  <item nodeId="node-0x8301790">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -312,10 +312,10 @@ Sam heads to the Living Room.
     <changed>YES</changed>
     <temporary score="339">YES</temporary>
     <children>
-      <child nodeId="node-0x2544a0" />
+      <child nodeId="node-0x83018b0" />
     </children>
   </item>
-  <item nodeId="node-0x2544a0">
+  <item nodeId="node-0x83018b0">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -328,10 +328,10 @@ Sam arrives from the Living Room.
     <changed>YES</changed>
     <temporary score="339">YES</temporary>
     <children>
-      <child nodeId="node-0x2544f0" />
+      <child nodeId="node-0x8301ad0" />
     </children>
   </item>
-  <item nodeId="node-0x2544f0">
+  <item nodeId="node-0x8301ad0">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Living Room
@@ -350,10 +350,10 @@ You are about to drop dead of exhaustion. You really should go sit down.
     <changed>YES</changed>
     <temporary score="339">YES</temporary>
     <children>
-      <child nodeId="node-0x2549f0" />
+      <child nodeId="node-0x8301680" />
     </children>
   </item>
-  <item nodeId="node-0x2549f0">
+  <item nodeId="node-0x8301680">
     <command xml:space="preserve">take cat</command>
     <result xml:space="preserve">Taken.
 
@@ -366,10 +366,10 @@ The tabby cat kicks and squirms. It is hard to carry him.
     <changed>YES</changed>
     <temporary score="339">YES</temporary>
     <children>
-      <child nodeId="node-0x254a60" />
+      <child nodeId="node-0x83016d0" />
     </children>
   </item>
-  <item nodeId="node-0x254a60">
+  <item nodeId="node-0x83016d0">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Hallway
@@ -397,7 +397,7 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>YES</changed>
     <temporary score="338">YES</temporary>
   </item>
-  <item nodeId="node-0x254ad0">
+  <item nodeId="node-0x8301430">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -406,10 +406,10 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>YES</changed>
     <temporary score="473">YES</temporary>
     <children>
-      <child nodeId="node-0x254b40" />
+      <child nodeId="node-0x8301480" />
     </children>
   </item>
-  <item nodeId="node-0x254b40">
+  <item nodeId="node-0x8301480">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Living Room
@@ -424,10 +424,10 @@ Sam heads to the Hallway.
     <changed>YES</changed>
     <temporary score="473">YES</temporary>
     <children>
-      <child nodeId="node-0x254bb0" />
+      <child nodeId="node-0x83014f0" />
     </children>
   </item>
-  <item nodeId="node-0x254bb0">
+  <item nodeId="node-0x83014f0">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Kitchen
@@ -440,10 +440,10 @@ You can see an Oven (closed) and a Cabinet (closed) here.
     <changed>YES</changed>
     <temporary score="473">YES</temporary>
     <children>
-      <child nodeId="node-0x254c20" />
+      <child nodeId="node-0x8301560" />
     </children>
   </item>
-  <item nodeId="node-0x254c20">
+  <item nodeId="node-0x8301560">
     <command xml:space="preserve">open cabinet</command>
     <result xml:space="preserve">You open the Cabinet, revealing a pair of Potholders.
 
@@ -452,10 +452,10 @@ You can see an Oven (closed) and a Cabinet (closed) here.
     <changed>NO</changed>
     <temporary score="473">YES</temporary>
     <children>
-      <child nodeId="node-0x254c90" />
+      <child nodeId="node-0x83012b0" />
     </children>
   </item>
-  <item nodeId="node-0x254c90">
+  <item nodeId="node-0x83012b0">
     <command xml:space="preserve">wear potholders</command>
     <result xml:space="preserve">(first taking the pair of Potholders)
 You put on the pair of Potholders.
@@ -467,10 +467,10 @@ You put on the pair of Potholders.
     <changed>NO</changed>
     <temporary score="473">YES</temporary>
     <children>
-      <child nodeId="node-0x254d00" />
+      <child nodeId="node-0x8301320" />
     </children>
   </item>
-  <item nodeId="node-0x254d00">
+  <item nodeId="node-0x8301320">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Living Room
@@ -485,10 +485,10 @@ The large furry tabby cat leaves.
     <changed>YES</changed>
     <temporary score="473">YES</temporary>
     <children>
-      <child nodeId="node-0x254d70" />
+      <child nodeId="node-0x8301390" />
     </children>
   </item>
-  <item nodeId="node-0x254d70">
+  <item nodeId="node-0x8301390">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Hallway
@@ -503,10 +503,10 @@ Sam heads to the Bedroom.
     <changed>YES</changed>
     <temporary score="473">YES</temporary>
     <children>
-      <child nodeId="node-0x254de0" />
+      <child nodeId="node-0x83010f0" />
     </children>
   </item>
-  <item nodeId="node-0x254de0">
+  <item nodeId="node-0x83010f0">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Bathroom
@@ -523,10 +523,10 @@ The large furry tabby cat leaves.
     <changed>YES</changed>
     <temporary score="473">YES</temporary>
     <children>
-      <child nodeId="node-0x254e50" />
+      <child nodeId="node-0x8301140" />
     </children>
   </item>
-  <item nodeId="node-0x254e50">
+  <item nodeId="node-0x8301140">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Hallway
@@ -543,10 +543,10 @@ Sam heads to the Bedroom.
     <changed>YES</changed>
     <temporary score="473">YES</temporary>
     <children>
-      <child nodeId="node-0x254870" />
+      <child nodeId="node-0x8300ed0" />
     </children>
   </item>
-  <item nodeId="node-0x254870">
+  <item nodeId="node-0x8300ed0">
     <command xml:space="preserve">up</command>
     <result xml:space="preserve">
 Attic
@@ -557,10 +557,10 @@ The attic smells musty and is filled with junk. It is a large room that spans th
     <changed>YES</changed>
     <temporary score="473">YES</temporary>
     <children>
-      <child nodeId="node-0x2548e0" />
+      <child nodeId="node-0x8301070" />
     </children>
   </item>
-  <item nodeId="node-0x2548e0">
+  <item nodeId="node-0x8301070">
     <command xml:space="preserve">d</command>
     <result xml:space="preserve">
 Hallway
@@ -577,10 +577,10 @@ The large furry tabby cat leaves.
     <changed>YES</changed>
     <temporary score="473">YES</temporary>
     <children>
-      <child nodeId="node-0x254950" />
+      <child nodeId="node-0x83015d0" />
     </children>
   </item>
-  <item nodeId="node-0x254950">
+  <item nodeId="node-0x83015d0">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Bedroom
@@ -595,10 +595,10 @@ The large furry tabby cat leaves.
     <changed>YES</changed>
     <temporary score="473">YES</temporary>
     <children>
-      <child nodeId="node-0x255100" />
+      <child nodeId="node-0x8301800" />
     </children>
   </item>
-  <item nodeId="node-0x255100">
+  <item nodeId="node-0x8301800">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Hallway
@@ -613,10 +613,10 @@ Sam heads to the Living Room.
     <changed>YES</changed>
     <temporary score="473">YES</temporary>
     <children>
-      <child nodeId="node-0x255170" />
+      <child nodeId="node-0x8301850" />
     </children>
   </item>
-  <item nodeId="node-0x255170">
+  <item nodeId="node-0x8301850">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Living Room
@@ -633,10 +633,10 @@ There is a large furry tabby cat here.
     <changed>YES</changed>
     <temporary score="473">YES</temporary>
     <children>
-      <child nodeId="node-0x2551e0" />
+      <child nodeId="node-0x83011b0" />
     </children>
   </item>
-  <item nodeId="node-0x2551e0">
+  <item nodeId="node-0x83011b0">
     <command xml:space="preserve">take cat</command>
     <result xml:space="preserve">Taken.
 
@@ -648,10 +648,10 @@ With a supreme effort and a baleful look, the tabby cat escapes from your grasp.
     <changed>YES</changed>
     <temporary score="473">YES</temporary>
     <children>
-      <child nodeId="node-0x255250" />
+      <child nodeId="node-0x8301220" />
     </children>
   </item>
-  <item nodeId="node-0x255250">
+  <item nodeId="node-0x8301220">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Hallway
@@ -666,10 +666,10 @@ Sam arrives from the Attic.
     <changed>YES</changed>
     <temporary score="473">YES</temporary>
     <children>
-      <child nodeId="node-0x2552c0" />
+      <child nodeId="node-0x8300c30" />
     </children>
   </item>
-  <item nodeId="node-0x2552c0">
+  <item nodeId="node-0x8300c30">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Bathroom
@@ -682,10 +682,10 @@ Opposite the mirror is the shower, which is closed.
     <changed>YES</changed>
     <temporary score="473">YES</temporary>
     <children>
-      <child nodeId="node-0x255330" />
+      <child nodeId="node-0x8300ca0" />
     </children>
   </item>
-  <item nodeId="node-0x255330">
+  <item nodeId="node-0x8300ca0">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Hallway
@@ -700,10 +700,10 @@ Sam arrives from the Bedroom.
     <changed>YES</changed>
     <temporary score="473">YES</temporary>
     <children>
-      <child nodeId="node-0x2553a0" />
+      <child nodeId="node-0x8300d10" />
     </children>
   </item>
-  <item nodeId="node-0x2553a0">
+  <item nodeId="node-0x8300d10">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Living Room
@@ -720,10 +720,10 @@ There is a large furry tabby cat here.
     <changed>YES</changed>
     <temporary score="473">YES</temporary>
     <children>
-      <child nodeId="node-0x255410" />
+      <child nodeId="node-0x8300a70" />
     </children>
   </item>
-  <item nodeId="node-0x255410">
+  <item nodeId="node-0x8300a70">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Kitchen
@@ -738,10 +738,10 @@ Sam arrives from the Living Room.
     <changed>YES</changed>
     <temporary score="473">YES</temporary>
     <children>
-      <child nodeId="node-0x255480" />
+      <child nodeId="node-0x8300ac0" />
     </children>
   </item>
-  <item nodeId="node-0x255480">
+  <item nodeId="node-0x8300ac0">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Living Room
@@ -756,10 +756,10 @@ Sam arrives from the Kitchen.
     <changed>YES</changed>
     <temporary score="473">YES</temporary>
     <children>
-      <child nodeId="node-0x2554f0" />
+      <child nodeId="node-0x8300b30" />
     </children>
   </item>
-  <item nodeId="node-0x2554f0">
+  <item nodeId="node-0x8300b30">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Hallway
@@ -774,10 +774,10 @@ Sam arrives from the Living Room.
     <changed>YES</changed>
     <temporary score="473">YES</temporary>
     <children>
-      <child nodeId="node-0x255560" />
+      <child nodeId="node-0x8300ba0" />
     </children>
   </item>
-  <item nodeId="node-0x255560">
+  <item nodeId="node-0x8300ba0">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Bathroom
@@ -790,10 +790,10 @@ Opposite the mirror is the shower, which is closed.
     <changed>YES</changed>
     <temporary score="473">YES</temporary>
     <children>
-      <child nodeId="node-0x2555d0" />
+      <child nodeId="node-0x83008f0" />
     </children>
   </item>
-  <item nodeId="node-0x2555d0">
+  <item nodeId="node-0x83008f0">
     <command xml:space="preserve">i</command>
     <result xml:space="preserve">You are carrying:
   a pair of Potholders (being worn)
@@ -803,10 +803,10 @@ Opposite the mirror is the shower, which is closed.
     <changed>YES</changed>
     <temporary score="473">YES</temporary>
     <children>
-      <child nodeId="node-0x255640" />
+      <child nodeId="node-0x8300960" />
     </children>
   </item>
-  <item nodeId="node-0x255640">
+  <item nodeId="node-0x8300960">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Hallway
@@ -821,10 +821,10 @@ Sam heads to the Bathroom.
     <changed>YES</changed>
     <temporary score="473">YES</temporary>
     <children>
-      <child nodeId="node-0x2556b0" />
+      <child nodeId="node-0x83009d0" />
     </children>
   </item>
-  <item nodeId="node-0x2556b0">
+  <item nodeId="node-0x83009d0">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Living Room
@@ -837,10 +837,10 @@ You can see a pappasan and a newspaper here.
     <changed>YES</changed>
     <temporary score="473">YES</temporary>
     <children>
-      <child nodeId="node-0x255720" />
+      <child nodeId="node-0x8300730" />
     </children>
   </item>
-  <item nodeId="node-0x255720">
+  <item nodeId="node-0x8300730">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Kitchen
@@ -857,10 +857,10 @@ The large furry tabby cat leaves.
     <changed>YES</changed>
     <temporary score="473">YES</temporary>
     <children>
-      <child nodeId="node-0x255790" />
+      <child nodeId="node-0x8300780" />
     </children>
   </item>
-  <item nodeId="node-0x255790">
+  <item nodeId="node-0x8300780">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Living Room
@@ -875,10 +875,10 @@ The large furry tabby cat leaves.
     <changed>YES</changed>
     <temporary score="473">YES</temporary>
     <children>
-      <child nodeId="node-0x255800" />
+      <child nodeId="node-0x83007f0" />
     </children>
   </item>
-  <item nodeId="node-0x255800">
+  <item nodeId="node-0x83007f0">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Kitchen
@@ -891,10 +891,10 @@ You can see an Oven (closed) and a Cabinet (empty) here.
     <changed>YES</changed>
     <temporary score="473">YES</temporary>
     <children>
-      <child nodeId="node-0x254ec0" />
+      <child nodeId="node-0x8300860" />
     </children>
   </item>
-  <item nodeId="node-0x254ec0">
+  <item nodeId="node-0x8300860">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Living Room
@@ -907,10 +907,10 @@ You can see a pappasan and a newspaper here.
     <changed>YES</changed>
     <temporary score="473">YES</temporary>
     <children>
-      <child nodeId="node-0x254f30" />
+      <child nodeId="node-0x8300dd0" />
     </children>
   </item>
-  <item nodeId="node-0x254f30">
+  <item nodeId="node-0x8300dd0">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Hallway
@@ -927,10 +927,10 @@ There is a large furry tabby cat here.
     <changed>YES</changed>
     <temporary score="473">YES</temporary>
     <children>
-      <child nodeId="node-0x254fa0" />
+      <child nodeId="node-0x8300e40" />
     </children>
   </item>
-  <item nodeId="node-0x254fa0">
+  <item nodeId="node-0x8300e40">
     <command xml:space="preserve">take cat</command>
     <result xml:space="preserve">Which do you mean, the tabby cat or the cat carrier?
 
@@ -939,10 +939,10 @@ There is a large furry tabby cat here.
     <changed>YES</changed>
     <temporary score="473">YES</temporary>
     <children>
-      <child nodeId="node-0x255010" />
+      <child nodeId="node-0x8300f50" />
     </children>
   </item>
-  <item nodeId="node-0x255010">
+  <item nodeId="node-0x8300f50">
     <command xml:space="preserve">take tabby cat</command>
     <result xml:space="preserve">Taken.
 
@@ -955,10 +955,10 @@ The tabby cat kicks and squirms. It is hard to carry him.
     <changed>YES</changed>
     <temporary score="473">YES</temporary>
     <children>
-      <child nodeId="node-0x255080" />
+      <child nodeId="node-0x8300fa0" />
     </children>
   </item>
-  <item nodeId="node-0x255080">
+  <item nodeId="node-0x8300fa0">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Living Room
@@ -976,7 +976,7 @@ With a supreme effort and a baleful look, the tabby cat escapes from your grasp.
     <changed>YES</changed>
     <temporary score="472">YES</temporary>
   </item>
-  <item nodeId="node-0x255870">
+  <item nodeId="node-0x8301010">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Bedroom
@@ -989,10 +989,10 @@ You can see an armoire (empty) and a bed here.
     <changed>YES</changed>
     <temporary score="361">YES</temporary>
     <children>
-      <child nodeId="node-0x2558e0" />
+      <child nodeId="node-0x83005b0" />
     </children>
   </item>
-  <item nodeId="node-0x2558e0">
+  <item nodeId="node-0x83005b0">
     <command xml:space="preserve">gte in bed</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -1001,10 +1001,10 @@ You can see an armoire (empty) and a bed here.
     <changed>NO</changed>
     <temporary score="361">YES</temporary>
     <children>
-      <child nodeId="node-0x255950" />
+      <child nodeId="node-0x8300620" />
     </children>
   </item>
-  <item nodeId="node-0x255950">
+  <item nodeId="node-0x8300620">
     <command xml:space="preserve">get in bed</command>
     <result xml:space="preserve">Ahhhh! It feels so nice to lie down. But shouldn&apos;t you be trying to Get That Cat?
 
@@ -1015,26 +1015,26 @@ There is a large furry tabby cat here.
     <changed>YES</changed>
     <temporary score="361">YES</temporary>
     <children>
-      <child nodeId="node-0x2559c0" />
+      <child nodeId="node-0x8300690" />
     </children>
   </item>
-  <item nodeId="node-0x2559c0">
+  <item nodeId="node-0x8300690">
     <command xml:space="preserve">restart</command>
     <result xml:space="preserve">Are you sure you want to restart? </result>
     <played>YES</played>
     <changed>YES</changed>
     <temporary score="361">YES</temporary>
     <children>
-      <child nodeId="node-0x255a30" />
+      <child nodeId="node-0x83003f0" />
     </children>
   </item>
-  <item nodeId="node-0x255a30">
+  <item nodeId="node-0x83003f0">
     <command xml:space="preserve">yes</command>
     <played>YES</played>
     <changed>YES</changed>
     <temporary score="360">YES</temporary>
   </item>
-  <item nodeId="node-0x255aa0">
+  <item nodeId="node-0x8300440">
     <command xml:space="preserve">look under pappasan</command>
     <result xml:space="preserve">You find nothing of interest.
 
@@ -1045,7 +1045,7 @@ Sam heads to the Hallway.
     <changed>YES</changed>
     <temporary score="361">YES</temporary>
   </item>
-  <item nodeId="node-0x255b10">
+  <item nodeId="node-0x83004b0">
     <command xml:space="preserve">x pappasan</command>
     <result xml:space="preserve">What more is there to say? It&apos;s a pappasan.
 
@@ -1056,10 +1056,10 @@ Sam heads to the Hallway.
     <changed>YES</changed>
     <temporary score="365">YES</temporary>
     <children>
-      <child nodeId="node-0x255b80" />
+      <child nodeId="node-0x8300520" />
     </children>
   </item>
-  <item nodeId="node-0x255b80">
+  <item nodeId="node-0x8300520">
     <command xml:space="preserve">x newspaper</command>
     <result xml:space="preserve">It is called the Englewood Times. There are all sorts of stories about traffic congestion in New Jersey, the hot, sticky weather, the Yankees losing to the Red Sox, what the heck is a pappasan? and so on, and so forth...
 
@@ -1070,10 +1070,10 @@ Sam heads to the Hallway.
     <changed>YES</changed>
     <temporary score="365">YES</temporary>
     <children>
-      <child nodeId="node-0x255bf0" />
+      <child nodeId="node-0x8300270" />
     </children>
   </item>
-  <item nodeId="node-0x255bf0">
+  <item nodeId="node-0x8300270">
     <command xml:space="preserve">sit on pappasan</command>
     <result xml:space="preserve">You have a seat on the pappasan. It creaks and flexes. Ahhhhhh... But this is no time to relax! There&apos;s a cat to catch!
 
@@ -1084,7 +1084,7 @@ Sam heads to the Hallway.
     <changed>YES</changed>
     <temporary score="364">YES</temporary>
   </item>
-  <item nodeId="node-0x255cd0">
+  <item nodeId="node-0x83002e0">
     <command xml:space="preserve">look out windows</command>
     <result xml:space="preserve">I only understood you as far as wanting to look outside.
 
@@ -1093,10 +1093,10 @@ Sam heads to the Hallway.
     <changed>NO</changed>
     <temporary score="348">YES</temporary>
     <children>
-      <child nodeId="node-0x255d40" />
+      <child nodeId="node-0x8300350" />
     </children>
   </item>
-  <item nodeId="node-0x255d40">
+  <item nodeId="node-0x8300350">
     <command xml:space="preserve">look at windows</command>
     <result xml:space="preserve">The windows are big and bright and look out on West Ivy Lane. Your beat-up maroon station wagon is idling outside, waiitng for you to load the cat into the car.
 
@@ -1109,10 +1109,10 @@ Sam heads to the Hallway.
     <changed>YES</changed>
     <temporary score="348">YES</temporary>
     <children>
-      <child nodeId="node-0x255db0" />
+      <child nodeId="node-0x83000b0" />
     </children>
   </item>
-  <item nodeId="node-0x255db0">
+  <item nodeId="node-0x83000b0">
     <command xml:space="preserve">look at window</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -1121,10 +1121,10 @@ Sam heads to the Hallway.
     <changed>NO</changed>
     <temporary score="348">YES</temporary>
     <children>
-      <child nodeId="node-0x255e20" />
+      <child nodeId="node-0x8300100" />
     </children>
   </item>
-  <item nodeId="node-0x255e20">
+  <item nodeId="node-0x8300100">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Kitchen
@@ -1137,10 +1137,10 @@ You can see an Oven (closed) and a Cabinet (closed) here.
     <changed>YES</changed>
     <temporary score="348">YES</temporary>
     <children>
-      <child nodeId="node-0x255e90" />
+      <child nodeId="node-0x8300170" />
     </children>
   </item>
-  <item nodeId="node-0x255e90">
+  <item nodeId="node-0x8300170">
     <command xml:space="preserve">look at counter</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -1149,10 +1149,10 @@ You can see an Oven (closed) and a Cabinet (closed) here.
     <changed>YES</changed>
     <temporary score="348">YES</temporary>
     <children>
-      <child nodeId="node-0x255f00" />
+      <child nodeId="node-0x83001e0" />
     </children>
   </item>
-  <item nodeId="node-0x255f00">
+  <item nodeId="node-0x83001e0">
     <command xml:space="preserve"></command>
     <result xml:space="preserve">I beg your pardon?
 
@@ -1161,7 +1161,7 @@ You can see an Oven (closed) and a Cabinet (closed) here.
     <changed>YES</changed>
     <temporary score="347">YES</temporary>
   </item>
-  <item nodeId="node-0x255c60">
+  <item nodeId="node-0x1b4d780">
     <command xml:space="preserve">look at windows</command>
     <result xml:space="preserve">The windows are big and bright and look out on West Ivy Lane. Your beat-up maroon station wagon is idling outside, waiting for you to load the cat into the car.
 
@@ -1174,7 +1174,7 @@ There is a large furry tabby cat here.
     <changed>YES</changed>
     <temporary score="2">YES</temporary>
   </item>
-  <item nodeId="node-0x255f70">
+  <item nodeId="node-0x1b4d7f0">
     <command xml:space="preserve">take newspaper</command>
     <result xml:space="preserve">Taken.
 
@@ -1185,10 +1185,10 @@ Sam heads to the Hallway.
     <changed>YES</changed>
     <temporary score="384">YES</temporary>
     <children>
-      <child nodeId="node-0x255fe0" />
+      <child nodeId="node-0x1b4d860" />
     </children>
   </item>
-  <item nodeId="node-0x255fe0">
+  <item nodeId="node-0x1b4d860">
     <command xml:space="preserve">x newspaper</command>
     <result xml:space="preserve">It is called the Englewood Times. There are all sorts of stories about traffic congestion in New Jersey, the hot, sticky weather, the Yankees losing to the Red Sox, what the heck is a pappasan? and so on, and so forth...
 
@@ -1199,10 +1199,10 @@ Sam heads to the Hallway.
     <changed>YES</changed>
     <temporary score="384">YES</temporary>
     <children>
-      <child nodeId="node-0x256050" />
+      <child nodeId="node-0x1b4d8d0" />
     </children>
   </item>
-  <item nodeId="node-0x256050">
+  <item nodeId="node-0x1b4d8d0">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Kitchen
@@ -1217,10 +1217,10 @@ You hear a horrible choking and hacking sound. Somewhere, someone has coughed up
     <changed>YES</changed>
     <temporary score="384">YES</temporary>
     <children>
-      <child nodeId="node-0x2560c0" />
+      <child nodeId="node-0x1b4d940" />
     </children>
   </item>
-  <item nodeId="node-0x2560c0">
+  <item nodeId="node-0x1b4d940">
     <command xml:space="preserve">x oven</command>
     <result xml:space="preserve">An old working model from the 1970s, it is used but serviceable. In fact, it has to be serviced all the time.
 
@@ -1231,10 +1231,10 @@ You hear a horrible choking and hacking sound. Somewhere, someone has coughed up
     <changed>YES</changed>
     <temporary score="384">YES</temporary>
     <children>
-      <child nodeId="node-0x256130" />
+      <child nodeId="node-0x83fb8c0" />
     </children>
   </item>
-  <item nodeId="node-0x256130">
+  <item nodeId="node-0x83fb8c0">
     <command xml:space="preserve">smell</command>
     <result xml:space="preserve">You smell nothing unexpected.
 
@@ -1245,10 +1245,10 @@ There is a large furry tabby cat here.
     <changed>YES</changed>
     <temporary score="384">YES</temporary>
     <children>
-      <child nodeId="node-0x2561a0" />
+      <child nodeId="node-0x83fb930" />
     </children>
   </item>
-  <item nodeId="node-0x2561a0">
+  <item nodeId="node-0x83fb930">
     <command xml:space="preserve">take cat</command>
     <result xml:space="preserve">You look at his claws and teeth and think otherwise. The vet doesn&apos;t carry Band-Aids.
 
@@ -1259,10 +1259,10 @@ You hear a horrible choking and hacking sound. Somewhere, someone has coughed up
     <changed>YES</changed>
     <temporary score="384">YES</temporary>
     <children>
-      <child nodeId="node-0x256210" />
+      <child nodeId="node-0x83fb9a0" />
     </children>
   </item>
-  <item nodeId="node-0x256210">
+  <item nodeId="node-0x83fb9a0">
     <command xml:space="preserve">open oven</command>
     <result xml:space="preserve">A blast of hot air and the aroma of soft, chewy chocolate chip cookies greets you as you peer eagerly into the hot oven.
 
@@ -1271,10 +1271,10 @@ You hear a horrible choking and hacking sound. Somewhere, someone has coughed up
     <changed>YES</changed>
     <temporary score="384">YES</temporary>
     <children>
-      <child nodeId="node-0x256280" />
+      <child nodeId="node-0x83fba10" />
     </children>
   </item>
-  <item nodeId="node-0x256280">
+  <item nodeId="node-0x83fba10">
     <command xml:space="preserve">take cookies</command>
     <result xml:space="preserve">You&apos;ll need something to protect your hands!
 
@@ -1283,10 +1283,10 @@ You hear a horrible choking and hacking sound. Somewhere, someone has coughed up
     <changed>YES</changed>
     <temporary score="384">YES</temporary>
     <children>
-      <child nodeId="node-0x2562f0" />
+      <child nodeId="node-0x83fba80" />
     </children>
   </item>
-  <item nodeId="node-0x2562f0">
+  <item nodeId="node-0x83fba80">
     <command xml:space="preserve">open cabinet</command>
     <result xml:space="preserve">You open the Cabinet, revealing a pair of Potholders.
 
@@ -1295,10 +1295,10 @@ You hear a horrible choking and hacking sound. Somewhere, someone has coughed up
     <changed>YES</changed>
     <temporary score="384">YES</temporary>
     <children>
-      <child nodeId="node-0x256360" />
+      <child nodeId="node-0x83fbaf0" />
     </children>
   </item>
-  <item nodeId="node-0x256360">
+  <item nodeId="node-0x83fbaf0">
     <command xml:space="preserve">x cabinet</command>
     <result xml:space="preserve">The cabinet stores pots, pans, and other cooking implements.
 
@@ -1311,10 +1311,10 @@ In the Cabinet is a pair of Potholders.
     <changed>YES</changed>
     <temporary score="384">YES</temporary>
     <children>
-      <child nodeId="node-0x2563d0" />
+      <child nodeId="node-0x83fbb60" />
     </children>
   </item>
-  <item nodeId="node-0x2563d0">
+  <item nodeId="node-0x83fbb60">
     <command xml:space="preserve">take potholders</command>
     <result xml:space="preserve">There is a large furry tabby cat here.
 
@@ -1325,10 +1325,10 @@ In the Cabinet is a pair of Potholders.
     <changed>YES</changed>
     <temporary score="384">YES</temporary>
     <children>
-      <child nodeId="node-0x256440" />
+      <child nodeId="node-0x83fbbd0" />
     </children>
   </item>
-  <item nodeId="node-0x256440">
+  <item nodeId="node-0x83fbbd0">
     <command xml:space="preserve">x cabinet</command>
     <result xml:space="preserve">The cabinet stores pots, pans, and other cooking implements.
 
@@ -1341,10 +1341,10 @@ There is a large furry tabby cat here.
     <changed>YES</changed>
     <temporary score="384">YES</temporary>
     <children>
-      <child nodeId="node-0x2564b0" />
+      <child nodeId="node-0x83fbc40" />
     </children>
   </item>
-  <item nodeId="node-0x2564b0">
+  <item nodeId="node-0x83fbc40">
     <command xml:space="preserve">take cat</command>
     <result xml:space="preserve">You look at his claws and teeth and think otherwise. The vet doesn&apos;t carry Band-Aids.
 
@@ -1355,10 +1355,10 @@ There is a large furry tabby cat here.
     <changed>YES</changed>
     <temporary score="384">YES</temporary>
     <children>
-      <child nodeId="node-0x256520" />
+      <child nodeId="node-0x83fbcb0" />
     </children>
   </item>
-  <item nodeId="node-0x256520">
+  <item nodeId="node-0x83fbcb0">
     <command xml:space="preserve">put on potholders</command>
     <result xml:space="preserve">You put on the pair of Potholders.
 
@@ -1369,10 +1369,10 @@ There is a large furry tabby cat here.
     <changed>YES</changed>
     <temporary score="384">YES</temporary>
     <children>
-      <child nodeId="node-0x256590" />
+      <child nodeId="node-0x83fbd20" />
     </children>
   </item>
-  <item nodeId="node-0x256590">
+  <item nodeId="node-0x83fbd20">
     <command xml:space="preserve">take cat</command>
     <result xml:space="preserve">Taken.
 
@@ -1383,10 +1383,10 @@ The tabby cat kicks and squirms. It is hard to carry him.
     <changed>YES</changed>
     <temporary score="384">YES</temporary>
     <children>
-      <child nodeId="node-0x256600" />
+      <child nodeId="node-0x83fbd90" />
     </children>
   </item>
-  <item nodeId="node-0x256600">
+  <item nodeId="node-0x83fbd90">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Living Room
@@ -1401,10 +1401,10 @@ The tabby cat kicks and squirms. It is hard to carry him.
     <changed>YES</changed>
     <temporary score="384">YES</temporary>
     <children>
-      <child nodeId="node-0x256670" />
+      <child nodeId="node-0x83fbe00" />
     </children>
   </item>
-  <item nodeId="node-0x256670">
+  <item nodeId="node-0x83fbe00">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Hallway
@@ -1421,10 +1421,10 @@ The tabby cat kicks and squirms. It is hard to carry him.
     <changed>YES</changed>
     <temporary score="384">YES</temporary>
     <children>
-      <child nodeId="node-0x2566e0" />
+      <child nodeId="node-0x83fbe70" />
     </children>
   </item>
-  <item nodeId="node-0x2566e0">
+  <item nodeId="node-0x83fbe70">
     <command xml:space="preserve">put cat in cat carrier</command>
     <result xml:space="preserve">(the tabby cat in the cat carrier)
 You put the tabby cat into the cat carrier.
@@ -1447,16 +1447,16 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>YES</changed>
     <temporary score="384">YES</temporary>
     <children>
-      <child nodeId="node-0x256750" />
+      <child nodeId="node-0x83fbee0" />
     </children>
   </item>
-  <item nodeId="node-0x256750">
+  <item nodeId="node-0x83fbee0">
     <command xml:space="preserve">restart</command>
     <played>YES</played>
     <changed>YES</changed>
     <temporary score="383">YES</temporary>
   </item>
-  <item nodeId="node-0x2567c0">
+  <item nodeId="node-0x83fbf50">
     <command xml:space="preserve">x sam</command>
     <result xml:space="preserve">Sam is a black and white cat.
 
@@ -1469,10 +1469,10 @@ Sam heads to the Hallway.
     <changed>YES</changed>
     <temporary score="320">YES</temporary>
     <children>
-      <child nodeId="node-0x256830" />
+      <child nodeId="node-0x83fb170" />
     </children>
   </item>
-  <item nodeId="node-0x256830">
+  <item nodeId="node-0x83fb170">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Hallway
@@ -1487,10 +1487,10 @@ Sam heads to the Bathroom.
     <changed>YES</changed>
     <temporary score="320">YES</temporary>
     <children>
-      <child nodeId="node-0x2568a0" />
+      <child nodeId="node-0x83fb1e0" />
     </children>
   </item>
-  <item nodeId="node-0x2568a0">
+  <item nodeId="node-0x83fb1e0">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Bathroom
@@ -1507,10 +1507,10 @@ Sam heads to the Hallway.
     <changed>YES</changed>
     <temporary score="320">YES</temporary>
     <children>
-      <child nodeId="node-0x256910" />
+      <child nodeId="node-0x83fb250" />
     </children>
   </item>
-  <item nodeId="node-0x256910">
+  <item nodeId="node-0x83fb250">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Hallway
@@ -1525,10 +1525,10 @@ Sam heads to the Bathroom.
     <changed>YES</changed>
     <temporary score="320">YES</temporary>
     <children>
-      <child nodeId="node-0x256980" />
+      <child nodeId="node-0x83fb2c0" />
     </children>
   </item>
-  <item nodeId="node-0x256980">
+  <item nodeId="node-0x83fb2c0">
     <command xml:space="preserve">x sam</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -1537,10 +1537,10 @@ Sam heads to the Bathroom.
     <changed>YES</changed>
     <temporary score="320">YES</temporary>
     <children>
-      <child nodeId="node-0x2569f0" />
+      <child nodeId="node-0x83fb330" />
     </children>
   </item>
-  <item nodeId="node-0x2569f0">
+  <item nodeId="node-0x83fb330">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -1551,10 +1551,10 @@ Sam arrives from the Bathroom.
     <changed>YES</changed>
     <temporary score="320">YES</temporary>
     <children>
-      <child nodeId="node-0x256a60" />
+      <child nodeId="node-0x83fb3a0" />
     </children>
   </item>
-  <item nodeId="node-0x256a60">
+  <item nodeId="node-0x83fb3a0">
     <command xml:space="preserve">x sam</command>
     <result xml:space="preserve">Sam is a black and white cat.
 

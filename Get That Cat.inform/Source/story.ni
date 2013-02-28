@@ -83,6 +83,8 @@ The Attic is a room. The Attic is above the Hallway. "The attic smells musty and
 The cat carrier is a container in the Hallway.
 After taking the cat carrier: increase score by 1.
 The Bathroom is south of the Hallway. The description is "The bathroom is small, just large enough to hold a mirror, the sink, the shower, and the toilet."
+The toilet is scenery in the Bathroom. The description is "This is your litterbox. It needs a good cleaning. Now is probably not the best time."
+After examining the Toilet: increase score by 1.
 The mirror is scenery in the Bathroom. The description is "You look tired after chasing the cat around the house."
 After examining the Mirror: increase score by 1.
 The shower is here. It is fixed in place. "Opposite the mirror is the shower, which is closed." The description of the shower is "When it's open, you get in it to take a shower. Right now it's closed, keeping you from using it."
